@@ -27,8 +27,8 @@ Make sure you have Python 3.10+ and pip installed. Then follow the steps below t
 Clone the repository
 
 ```bash
-git clone https://your-repository-link
-cd your-project-folder
+git clone https://github.com/bodyabandura/post_manager_API.git
+cd post_manager_API
 ```
 
 ### Create and activate virtual environment
